@@ -1,3 +1,3 @@
-# ProjetoEscolarAppDespesas
-Um aplicativo que cálcula as despesas (em java).
-O método main está no Controle.java e no teste.java. Tente o Controle.java para utilizar a biblioteca javax.swing.JOptionPane, ou o teste.java para ver como foi instânciado o resto do programa.
+# CalculadoraSimples
+Um aplicativo que cálcula as operações básicas matemáticas, foi criado utilizando java e o framework Swing.
+Como o Swing é um framework antigo e pouco utilizado, tal projeto foi apenas algo de pouco tempo e com intenções apenas de testes.
